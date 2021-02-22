@@ -1,161 +1,165 @@
 
-prof-a:
-    display_name: "Prof A"
+levin:
+    display_name: "Lori Levin"
+    webpage: "http://www.cs.cmu.edu/~lsl/"
     role: faculty
+    bio: Research Professor
 
-prof-b:
-    display_name: "Prof B"
+dmortens:
+    display_name: "David R. Mortensen"
+    webpage: "http://www.cs.cmu.edu/~dmortens/"
+    github: dmort27
     role: faculty
+    bio: Systems Scientist
 
-prof-c:
-    display_name: "Prof C"
-    role: faculty
+# scott:
+#     display_name: "Scott Summers"
+#     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#     role: staff
+#     image: /img/people/scott.png
+#     bio: aka Cyclops
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+# wolverine:
+#     display_name: "Wolverine"
+#     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+#     github: wolverine
+#     role: postdoc
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+bboldt:
+    display_name: "Brendon Boldt"
+    webpage: "https://brendonjboldt.xyz"
     role: grad
-    image: /img/people/storm.png
+    bio: Master of Language Technologies
 
-grad-a:
-    display_name: "Grad A"
+jmicher:
+    display_name: "Jeffrey Micher"
+    webpage: "http://www.cs.cmu.edu/~jmicher/"
     role: grad
+    bio: Ph.D.
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+sozaki:
+    display_name: "Satoru Ozaki"
+    webpage: "https://ikazos.gitlab.io"
     role: grad
+    bio: Master of Language Technologies
 
-grad-c:
-    display_name: "Grad C"
+mryskina:
+    display_name: "Maria Ryskina"
+    webpage: "https://www.cs.cmu.edu/~mryskina/"
     role: grad
+    bio: Ph.D.
 
-grad-d:
-    display_name: "Grad D"
+kjzhang:
+    display_name: "Katherine J. Zhang"
+    webpage: "https://www.andrew.cmu.edu/user/kjzhang/"
     role: grad
+    bio: Master of Arts
 
-grad-e:
-    display_name: "Grad E"
+xiaoronz:
+    display_name: "Sean Zhang"
     role: grad
+    # email: "xiaoronz at andrew.cmu.edu"
 
-grad-f:
-    display_name: "Grad F"
+xingyuaz:
+    display_name: "Xingyuan Zhao"
+    webpage: "https://xingyuanzhao.xyz"
     role: grad
+    bio: Master of Language Technologies
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
+# grad-g:
+#     display_name: "Grad G"
+#     role: grad
 
-grad-h:
-    display_name: "Grad H"
-    role: grad
+# grad-h:
+#     display_name: "Grad H"
+#     role: grad
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
+# grad-i:
+#     display_name: "Grad I"
+#     role: grad
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Jong Hyuk (Jay) Park"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "Master of Language Technologies, 2020. Now at University of Edinburgh."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
+# alum-b:
+#     display_name: "Alum B With Way Longer Name"
+#     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     webpage: "https://www.google.com"
 
-alum-d:
-    display_name: "Alum D"
-    role: alum
+# alum-d:
+#     display_name: "Alum D"
+#     role: alum
 
-alum-e:
-    display_name: "Alum E"
-    role: alum
+# alum-e:
+#     display_name: "Alum E"
+#     role: alum
 
-alum-f:
-    display_name: "Alum F"
-    role: alum
+# alum-f:
+#     display_name: "Alum F"
+#     role: alum
 
-alum-g:
-    display_name: "Alum G"
-    role: alum
+# alum-g:
+#     display_name: "Alum G"
+#     role: alum
 
-alum-h:
-    display_name: "Alum H"
-    role: alum
+# alum-h:
+#     display_name: "Alum H"
+#     role: alum
 
-alum-i:
-    display_name: "Alum I"
-    role: alum
+# alum-i:
+#     display_name: "Alum I"
+#     role: alum
 
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
+# collab-c:
+#     display_name: "Collaborator C"
+#     role: collab
 
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
+# collab-d:
+#     display_name: "Collaborator D"
+#     role: collab
 
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
+# collab-e:
+#     display_name: "Collaborator E"
+#     role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
+# ugrad-a:
+#     display_name: "Ugrad A"
+#     role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
+# ugrad-b:
+#     display_name: "Ugrad Student B With Long Name"
+#     role: ugrad
 
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
+# ugrad-c:
+#     display_name: "Ugrad C"
+#     role: ugrad
 
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
+# ugrad-d:
+#     display_name: "Ugrad D"
+#     role: ugrad
 
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
+# ugrad-e:
+#     display_name: "Ugrad E"
+#     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum
