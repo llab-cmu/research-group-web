@@ -5,7 +5,8 @@ description: |
   Contextualize a word translation task; fill the gap between outdated dictionary-based word translation tasks and update contextualized word embedding evaluation.
 
 people:
-  - xingyuaz
+  - notani
+  - yuey2
 
 layout: project
 last-updated: 2020-06-03
