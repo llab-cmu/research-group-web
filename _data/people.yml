@@ -25,6 +25,11 @@ dmortens:
 #     github: wolverine
 #     role: postdoc
 
+njanders:
+    display_name: "Nathan Anderson"
+    bio: Master of Language Technologies
+    role: grad
+
 bboldt:
     display_name: "Brendon Boldt"
     webpage: "https://brendonjboldt.xyz"
@@ -34,6 +39,12 @@ bboldt:
 jmicher:
     display_name: "Jeffrey Micher"
     webpage: "http://www.cs.cmu.edu/~jmicher/"
+    role: grad
+    bio: Ph.D.
+
+notani:
+    display_name: "Naoki Otani"
+    webpage: "http://naoki.ninja
     role: grad
     bio: Ph.D.
 
@@ -48,6 +59,11 @@ mryskina:
     webpage: "https://www.cs.cmu.edu/~mryskina/"
     role: grad
     bio: Ph.D.
+
+yuey2:
+    display_name: "Yue Yin"
+    bio: Master of Language Technologies
+    role: grad
 
 kjzhang:
     display_name: "Katherine J. Zhang"
@@ -65,18 +81,6 @@ xingyuaz:
     webpage: "https://xingyuanzhao.xyz"
     role: grad
     bio: Master of Language Technologies
-
-# grad-g:
-#     display_name: "Grad G"
-#     role: grad
-
-# grad-h:
-#     display_name: "Grad H"
-#     role: grad
-
-# grad-i:
-#     display_name: "Grad I"
-#     role: grad
 
 alum-a:
     display_name: "Jong Hyuk (Jay) Park"
