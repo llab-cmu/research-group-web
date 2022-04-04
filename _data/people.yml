@@ -46,9 +46,19 @@ kalvic:
     display_name: "Kalvin Chang"
     role: grad
     bio: Master of Language Technologies
+
+cxcui:
+    display_name: "Chenxuan Cui"
+    role: grad
+    bio: M.S.
     
 yanlinf:
     display_name: "Yanlin Feng"
+    role: grad
+    bio: Master of Language Technologies
+
+taiqih:
+    display_name: "Taiqi He"
     role: grad
     bio: Master of Language Technologies
 
