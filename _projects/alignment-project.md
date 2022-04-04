@@ -12,4 +12,5 @@ people:
 
 layout: project
 last-updated: 2021-01-12
+status: inactive
 ---

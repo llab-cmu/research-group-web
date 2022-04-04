@@ -33,90 +33,90 @@ kjzhang:
 
 njanders:
     display_name: "Nathan Anderson"
-    bio: Master of Language Technologies
+    bio: MLT
     role: grad
 
 bboldt:
     display_name: "Brendon Boldt"
     webpage: "https://brendonjboldt.xyz"
     role: grad
-    bio: Ph.D.
+    bio: PhD
     
 kalvic:
     display_name: "Kalvin Chang"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
 
 cxcui:
     display_name: "Chenxuan Cui"
     role: grad
-    bio: M.S.
+    bio: MSIIS
     
 yanlinf:
     display_name: "Yanlin Feng"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
 
 taiqih:
     display_name: "Taiqi He"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
 
 jmicher:
     display_name: "Jeffrey Micher"
     webpage: "http://www.cs.cmu.edu/~jmicher/"
     role: grad
-    bio: Ph.D.
+    bio: PhD
 
 notani:
     display_name: "Naoki Otani"
     webpage: "http://naoki.ninja"
     role: grad
-    bio: Ph.D.
+    bio: PhD
 
 sozaki:
     display_name: "Satoru Ozaki"
     webpage: "https://ikazos.gitlab.io"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
     
 nrrobins:
     display_name: "Nate Robinson"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
 
 mryskina:
     display_name: "Maria Ryskina"
     webpage: "https://www.cs.cmu.edu/~mryskina/"
     role: grad
-    bio: Ph.D.
+    bio: PhD
     
 xinyuzh2:
     display_name: "Xinyu Zhang"
     role: grad
-    bio: Master of Language Technologies
+    bio: MLT
 
 yuey2:
     display_name: "Yue Yin"
-    bio: "Master of Language Technologies, 2021."
+    bio: "MLT, 2021."
     role: alum
 
 xiaoronz:
     display_name: "Sean Zhang"
     role: alum
-    bio: "M.S., 2021."
+    bio: "MS, 2021."
     # email: "xiaoronz at andrew.cmu.edu"
 
 xingyuaz:
     display_name: "Xingyuan Zhao"
     webpage: "https://xingyuanzhao.xyz"
     role: alum
-    bio: "Master of Language Technologies, 2021."
+    bio: "MLT, 2021. Now at UC San Diego."
 
 alum-a:
     display_name: "Jong Hyuk (Jay) Park"
     role: alum
-    bio: "Master of Language Technologies, 2020. Now at University of Edinburgh."
+    bio: "MLT, 2020. Now at University of Edinburgh."
 
 # collab-a:
 #     display_name: "Collaborator A"
