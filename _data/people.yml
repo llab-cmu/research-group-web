@@ -34,6 +34,16 @@ bboldt:
     display_name: "Brendon Boldt"
     webpage: "https://brendonjboldt.xyz"
     role: grad
+    bio: Ph.D.
+    
+kalvic:
+    display_name: "Kalvin Chang"
+    role: grad
+    bio: Master of Language Technologies
+    
+yanlinf:
+    display_name: "Yanlin Feng"
+    role: grad
     bio: Master of Language Technologies
 
 jmicher:
@@ -53,72 +63,49 @@ sozaki:
     webpage: "https://ikazos.gitlab.io"
     role: grad
     bio: Master of Language Technologies
+    
+nrrobins:
+    display_name: "Nate Robinson"
+    role: grad
+    bio: Master of Language Technologies
 
 mryskina:
     display_name: "Maria Ryskina"
     webpage: "https://www.cs.cmu.edu/~mryskina/"
     role: grad
     bio: Ph.D.
-
-yuey2:
-    display_name: "Yue Yin"
-    bio: Master of Language Technologies
+    
+xinyuzh2:
+    display_name: "Xinyu Zhang"
     role: grad
+    bio: Master of Language Technologies
 
 kjzhang:
     display_name: "Katherine J. Zhang"
     webpage: "https://www.andrew.cmu.edu/user/kjzhang/"
-    role: grad
-    bio: Master of Arts
+    role: staff
+    bio: Research Assistant
+
+yuey2:
+    display_name: "Yue Yin"
+    bio: "Master of Language Technologies, 2021."
+    role: alum
 
 xiaoronz:
     display_name: "Sean Zhang"
-    role: grad
+    role: alum
     # email: "xiaoronz at andrew.cmu.edu"
 
 xingyuaz:
     display_name: "Xingyuan Zhao"
     webpage: "https://xingyuanzhao.xyz"
-    role: grad
-    bio: Master of Language Technologies
+    role: alum
+    bio: "Master of Language Technologies, 2021."
 
 alum-a:
     display_name: "Jong Hyuk (Jay) Park"
     role: alum
     bio: "Master of Language Technologies, 2020. Now at University of Edinburgh."
-
-# alum-b:
-#     display_name: "Alum B With Way Longer Name"
-#     role: alum
-
-# alum-c:
-#     display_name: "Alum C"
-#     role: alum
-#     webpage: "https://www.google.com"
-
-# alum-d:
-#     display_name: "Alum D"
-#     role: alum
-
-# alum-e:
-#     display_name: "Alum E"
-#     role: alum
-
-# alum-f:
-#     display_name: "Alum F"
-#     role: alum
-
-# alum-g:
-#     display_name: "Alum G"
-#     role: alum
-
-# alum-h:
-#     display_name: "Alum H"
-#     role: alum
-
-# alum-i:
-#     display_name: "Alum I"
-#     role: alum
 
 # collab-a:
 #     display_name: "Collaborator A"
