@@ -12,6 +12,12 @@ dmortens:
     role: faculty
     bio: Systems Scientist
 
+kjzhang:
+    display_name: "Katherine J. Zhang"
+    webpage: "https://www.andrew.cmu.edu/user/kjzhang/"
+    role: staff
+    bio: Research Assistant
+
 # scott:
 #     display_name: "Scott Summers"
 #     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
@@ -80,12 +86,6 @@ xinyuzh2:
     role: grad
     bio: Master of Language Technologies
 
-kjzhang:
-    display_name: "Katherine J. Zhang"
-    webpage: "https://www.andrew.cmu.edu/user/kjzhang/"
-    role: staff
-    bio: Research Assistant
-
 yuey2:
     display_name: "Yue Yin"
     bio: "Master of Language Technologies, 2021."
@@ -94,6 +94,7 @@ yuey2:
 xiaoronz:
     display_name: "Sean Zhang"
     role: alum
+    bio: "M.S., 2021."
     # email: "xiaoronz at andrew.cmu.edu"
 
 xingyuaz:
