@@ -98,25 +98,25 @@ xinyuzh2:
 
 yuey2:
     display_name: "Yue Yin"
-    bio: "MLT, 2021."
+    bio: "MLT 2021"
     role: alum
-
-xiaoronz:
-    display_name: "Sean Zhang"
-    role: alum
-    bio: "MS, 2021."
-    # email: "xiaoronz at andrew.cmu.edu"
 
 xingyuaz:
     display_name: "Xingyuan Zhao"
     webpage: "https://xingyuanzhao.xyz"
     role: alum
-    bio: "MLT, 2021. Now at UC San Diego."
+    bio: "MLT 2021, now at UC San Diego"
 
 alum-a:
     display_name: "Jong Hyuk (Jay) Park"
     role: alum
-    bio: "MLT, 2020. Now at University of Edinburgh."
+    bio: "MLT 2020, now at University of Edinburgh."
+
+xiaoronz:
+    display_name: "Sean Zhang"
+    role: alum
+    bio: "MSCS 2020"
+    # email: "xiaoronz at andrew.cmu.edu"
 
 # collab-a:
 #     display_name: "Collaborator A"
